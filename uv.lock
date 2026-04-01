@@ -9,14 +9,14 @@ resolution-markers = [
 ]
 
 [options]
-exclude-newer = "2026-03-25T10:15:06.740957Z"
+exclude-newer = "2026-03-25T22:47:14.287069846Z"
 exclude-newer-span = "P1W"
 
 [options.exclude-newer-package]
-bitcart = { timestamp = "2026-04-01T10:15:06.740961Z", span = "PT0S" }
-universalasync = { timestamp = "2026-04-01T10:15:06.740968Z", span = "PT0S" }
-trontxsize = { timestamp = "2026-04-01T10:15:06.740968Z", span = "PT0S" }
-tronpy = { timestamp = "2026-04-01T10:15:06.740968Z", span = "PT0S" }
+bitcart = { timestamp = "2026-04-01T22:47:14.287081037Z", span = "PT0S" }
+universalasync = { timestamp = "2026-04-01T22:47:14.287091456Z", span = "PT0S" }
+trontxsize = { timestamp = "2026-04-01T22:47:14.28709049Z", span = "PT0S" }
+tronpy = { timestamp = "2026-04-01T22:47:14.287092041Z", span = "PT0S" }
 
 [manifest]
 overrides = [{ name = "python-dateutil", specifier = ">=2.9.0" }]
